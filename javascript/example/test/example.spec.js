@@ -1,7 +1,10 @@
-const assert = require('assert').strict;
+const expect = require('chai').expect;
+const Example = require('../lib/example.js');
 
-describe('can test for equal', () => {
-  it('does', () => {
-    assert.equal(1, 1, 'are equal');
+describe('can run a test', () => {
+  it('works', () => {
+    const example = new Example();
+    const value = example.run('hello');
+    expect(value).to.eql('hello');
   });
 });

@@ -1,6 +1,6 @@
 # Example
 
-This project uses node version 2.7.1
+This project was built using node version 10.16.0
 
 ## Setup
 
