@@ -7,5 +7,5 @@ Please clone this repo and ensure that you can run the example tests for
 the language of your choosing, prior to your interview day.
 
 
-Please see the [ruby REAME](./ruby/README.md) and [javascript REAME](./ruby/REAME.md) 
-for more details.
+Please see the [ruby README](./ruby/example/README.md) and
+[javascript README](./javascript/example/README.md) for more details.
