@@ -4,7 +4,7 @@
 a working development environment. During the interview you'll be working
 on a code kata on your computer. You can use either ruby or javascript.
 
-Please clone this repo and ensure that you can run the example tests for 
+Please clone this repo and ensure that you can run the example tests, for 
 the language of your choosing, prior to your interview day.
 
 
